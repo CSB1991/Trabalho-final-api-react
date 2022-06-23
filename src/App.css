@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.ecommerce{
+  padding: 10px;
+  text-align: center;
+  background-color: rgb(8, 116, 80);
+  font-size: 50px;
+  font-weight: 500;
+  color: #fff;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
